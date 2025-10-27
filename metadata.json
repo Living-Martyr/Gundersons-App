@@ -1,0 +1,5 @@
+{
+  "name": "Gunderson Stock Analyzer",
+  "description": "An application to analyze stock picks using Gunderson's 5 criteria. It leverages a stock data API and Gemini for a comprehensive, AI-powered analysis and scoring.",
+  "requestFramePermissions": []
+}
